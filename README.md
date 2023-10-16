@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dadiv
+- 👋 Hi, I’m David.
 - 👀 I’m interested in programming, marketing and business.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on start ups and business.
